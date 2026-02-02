@@ -30,3 +30,4 @@ function handleYesClick() {
   document.querySelector(".gif_container img").src =
     "https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif";
 }
+
