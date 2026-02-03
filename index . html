@@ -4,6 +4,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Will You Be My Valentine?</title>
+
+  <!-- CSS MUST be linked -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Will You Be My Valentine?</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -22,3 +34,8 @@
 </body>
 </html>
 
+
+  <!-- JS MUST be linked -->
+  <script src="script.js"></script>
+</body>
+</html>
